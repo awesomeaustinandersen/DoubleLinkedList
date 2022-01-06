@@ -1,0 +1,17 @@
+Austin Andersen
+December 18 2021
+
+Files required:
+  DoubleLinkedList.java
+  Node.java
+  NoSuchNodeException.java
+  
+The purpose of this program is to create a data structure where one can traverse the list going backwards and forwards. The program
+takes a generic type which allows the user to create a Double-Linked List for any specific type.
+
+Note: This program is currently UNFINISHED. It is still a work in progress, and as such, likely won't work if you try to create a 
+Double-Linked List
+
+To run:
+Compile the files - javac DoubleLinkedList.java
+                    java DoubleLinkedList
